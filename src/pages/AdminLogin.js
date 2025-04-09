@@ -163,11 +163,7 @@ function AdminLogin() {
                 Login
               </Button>
               
-              <Box sx={{ mt: 2 }}>
-                <Typography variant="body2" color="text.secondary" align="center">
-                  Demo credentials: admin@milkmaster.com / admin123
-                </Typography>
-              </Box>
+          
             </Box>
           </Box>
         </Paper>
